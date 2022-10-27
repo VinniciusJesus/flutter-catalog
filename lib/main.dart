@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '3d/heart_3d_icon.dart';
-
 void main() {
   runApp(const MyApp());
 }
@@ -97,7 +95,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Icon3DFb9(),
+            // Icon3DFb9(),
           ],
         ),
       ),
