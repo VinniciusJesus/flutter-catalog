@@ -1,6 +1,6 @@
 
 
-## 🖼 Buttons List
+## Buttons List
 
 
 
